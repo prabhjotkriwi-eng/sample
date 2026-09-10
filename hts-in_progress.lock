@@ -1,0 +1,5 @@
+Mirror in progress since Thu, 10 Sep 2026 17:12:06 .. please wait!
+winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://gaurchildcare.in/ -O1 ""C:\My Web Sites\new site work"" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=11932
+START=1789040526
