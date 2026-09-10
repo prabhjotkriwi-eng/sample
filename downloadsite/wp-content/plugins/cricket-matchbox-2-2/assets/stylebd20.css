@@ -1,0 +1,100 @@
+.entity-widget-main-div .flexed-box-header {         background-image: url(../../../../../i.postimg.cc/Cxt2QZD4/VAT-Calculation-Check-Jul-30-2025-2.png);  }
+
+
+.matchbox-ui-wrapper {
+    max-width: 100% !important;
+    overflow-x: auto;
+	 -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none;    /* Firefox */
+    background: #fdfdfd;
+    padding: 20px 10px;
+    box-shadow: inset 0 1px 2px #eee;
+}
+.matchbox-ui-wrapper::-webkit-scrollbar {
+  display: none;       /* Chrome, Safari, Opera */
+}
+.matchbox-ui-track {
+    display: flex;
+	 flex-wrap: wrap;
+    gap: 16px;
+    min-width: max-content;
+}
+.matchbox-ui-card {
+    background: #fff;
+    min-width: 280px;
+    max-width: 320px;
+    flex-shrink: 0;
+    border: 1px solid #e4e4e4;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.04);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease;
+}
+.matchbox-ui-card:hover {
+    transform: translateY(-2px);
+}
+.matchbox-ui-header {
+    background: #f8f9fa;
+    padding: 10px 14px;
+    border-bottom: 1px solid #eee;
+    font-size: 12px;
+    color: #555 !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.matchbox-ui-type {
+    background: #228B22;
+    color: white !important;
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 999px;
+}
+.matchbox-ui-body {
+    padding: 12px 14px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.matchbox-ui-team {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+}
+.matchbox-ui-status {
+    font-size: 13px;
+    color: #e53935 !important;
+}
+.matchbox-ui-status.green {
+    color: #228B22 !important;
+}
+.matchbox-ui-footer {
+    background: #eaf7e7;
+    padding: 10px 14px;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #d4e8d1;
+}
+.matchbox-ui-footer a {
+    color: #228B22 !important;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.matchbox-ui-team span
+{
+color:#000 !important;
+font-size:12px !important;
+}
+
+.matchbox-ui-header div:first-child {
+	color: #555 !important;
+	font-weight:500 !important;
+}
+
+.matchbox-ui-header div:nth-child(2) {
+    color: #fff !important; 
+  
+}
